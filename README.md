@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 💬 Ask me about **ReactJS, Tailwind, firebase, NextJs, shadcnUI**
+- 💬 Ask me about **ReactJS, Tailwind, firebase, NextJs, shadcnUI, ExpressJS, MongoDB, Prisma, Clerk**
 
 - 📫 How to reach me **sushant.ku.sh.70@gamil.com**
 
