@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantsharmaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="sushantsharmaofficial" /> </p>
 
-- 🌱 I’m currently learning **NextJS, MongoDB**
+- 🌱 I’m currently learning **Full stack web development**
 
-- 💬 Ask me about **ReactJS, Tailwind, firebase,**
+- 💬 Ask me about **ReactJS, Tailwind, firebase, NextJs, shadcnUI**
 
 - 📫 How to reach me **sushant.ku.sh.70@gamil.com**
 
